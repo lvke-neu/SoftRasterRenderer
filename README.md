@@ -1,0 +1,1 @@
+A soft raster renderer relies only on Opencv
